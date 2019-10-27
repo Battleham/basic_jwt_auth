@@ -1,0 +1,4 @@
+{
+    "mongoURI": "Add MongoDB URI here",
+    "jwtSecret": "Your JWT secret goes here"
+}
